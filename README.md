@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulsinghdevelop
+- 👋 Hi, I’m Rahul singh
 - 👀 I’m interested in web development and other coding topics
 - 🌱 I’m currently learning Android application development 
 - 💞️ I’m looking to collaborate on 
